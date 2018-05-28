@@ -1,3 +1,6 @@
+// Modified by gday0
+// Origin file is library exercise 'Gyro' in BMI160-Arduino-master.
+
 // connection
 // Arduino  BMI160
 // 3.3V     3V3

@@ -1,5 +1,5 @@
 // Modified by gday0
-// Origin file is library example 'Gyro' in BMI160-Arduino-master.
+// Origin file is library exercise 'Gyro' in BMI160-Arduino-master.
 
 // connection
 // Arduino  BMI160
@@ -9,7 +9,7 @@
 // A5       SCL
 
 #include <BMI160Gen.h>
- 
+#define OUTPUT_TEAPOT
 // const int select_pin = 10;
 const int i2c_addr = 0x69;
  

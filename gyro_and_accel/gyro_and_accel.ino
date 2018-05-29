@@ -97,6 +97,7 @@ float convertRawGyro(int gRaw) {
 }
 
 float convertRawAccel(int aRaw) {
+  // 몇으로 변환해야하는 지 찾기!
   // since we are using 2 G range
   // -250 maps to a raw value of -32768
   // +250 maps to a raw value of 32767
